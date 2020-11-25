@@ -1,0 +1,7 @@
+
+[wsl2]
+kernel=d:\\wsl\\kernel\\linux-5.9.1-wsl2-custom1
+nestedVirtualization=true
+localhostForwarding=true
+swap=0
+
